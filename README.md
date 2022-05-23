@@ -169,7 +169,7 @@ Nebelung - [Nebelung#1335](https://discord.com/users/887118260963782686)
 
 [Corrosion](https://github.com/titaniumnetwork-dev/Corrosion)
 
-[Modified Corrosion](https://github.com/BinBashBanana/Corrosion-Heroku)
+[Modified Corrosion](https://github.com/FogNetwork/Tsunami)
 
 [Aero](https://github.com/titaniumnetwork-dev/aero) (Not Used)
 
